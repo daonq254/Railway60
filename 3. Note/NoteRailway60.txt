@@ -1,0 +1,48 @@
+--
+HTML 
+CSS
+JS
+
+Thư viện, FW:
+ReactJS
+Angular
+VueJS
+
+git clone https://github.com/daonq254/Railway60.git
+-- 
+1. TypeScript + JS Extra
+2. ReactJS
+
+--
+TS: Là 1 bản nâng cáp của JS
+
+
+===================================================
+
+1. Cài đặt
+    node -v
+    npm -v 
+    npm install -g typescript
+    tsc --version
+
+2. fix 
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+3. Tạo Class
+- Thuộc tính, phương thức
+- getter, setter, contructor
+
+- 4 OOP
+
+5. Export, Import
+ - 3 cách
+    +  Export từng thành phần 
+        export { Person, myName };
+    +  Export từng thành phần 
+         export var myAge = 18;
+      +  Export Default
+         export default myName_;     
+
+6. Cấu trúc TemplateString `` ${}
+
+7. Khai báo hàm Arrow Function
