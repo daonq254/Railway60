@@ -2,6 +2,6 @@
 // abc();
 
 // Alias: myName_
-import myName_ from "./Something";
+import name from "./Something";
 
-console.log(myName_);
+console.log(name);

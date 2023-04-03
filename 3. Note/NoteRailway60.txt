@@ -43,6 +43,25 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
       +  Export Default
          export default myName_;     
 
-6. Cấu trúc TemplateString `` ${}
+6. Cấu trúc TemplateString `` ${}  , Cộng chuỗi
 
-7. Khai báo hàm Arrow Function
+7. Khai báo hàm Arrow Function  , Hàm mũi tên 
+    let ten_ham = (a, b) => {}
+
+8. Các vòng lặp hay sử dụng
+for, foreach, forin, forof, map
+
+9. var & let & const
+
+10. Destructuring
+
+11. Spread ...
+
+12. Parameter: Tham số truyền vào của 1 hàm
+Default parameter
+ Rest parameter
+ Optional parameter
+ Anonymous Object as parameter
+
+ 13. Higher Order Function (HOF)
+Hàm hoạt động trên các hàm khác: Lấy chúng làm tham số hoặc trả về chúng
