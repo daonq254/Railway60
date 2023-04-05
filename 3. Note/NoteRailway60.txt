@@ -65,3 +65,15 @@ Default parameter
 
  13. Higher Order Function (HOF)
 Hàm hoạt động trên các hàm khác: Lấy chúng làm tham số hoặc trả về chúng
+
+14. Currying Function
+-	Là kỹ thuật mà cho phép chuyển đổi một function với nhiều tham số thành những functions lồng nhau,
+ mỗi function có một tham số.
+
+15. Reduce Function
+
+16 Promise
+    Resolve Reject
+17 Asyn Await
+
+18. Git Github

@@ -39,6 +39,6 @@ let calculate = (a: number, b: number, oparation) => {
 
 // console.log("Sum HOF: ", calculate(10, 20, sum));
 // console.log("Minus HOF: ", calculate(10, 20, minus));
-let v_calculate = calculate(10, 50, sum); // v_calculate(x) => 60 + x
+let v_calculate = calculate(10, 50, sum); // v_calculate=(x) => 60 + x
 let resutl_1 = v_calculate(100); //v_calculate(100)=> 60 +100 =160
 console.log("resutl_1: ", resutl_1);
